@@ -1,0 +1,29 @@
+_repo: Battle-of-Fort-George--A-paper-read-on-March-14th-1896_33621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cruikshank, E. A. (Ernest Alexander)
+    alias: Cruikshank, Ernest Alexander
+    birthdate: 1853
+    deathdate: 1939
+    gutenberg_agent_id: '36502'
+    url: http://www.gutenberg.org/2009/agents/36502
+description: ''
+gutenberg_issued: '2010-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fort George (Niagara-on-the-Lake, Ont.)'
+- !lcsh 'United States -- History -- War of 1812'
+- !lcc 'F1001'
+- !lcsh 'Niagara-on-the-Lake (Ont.) -- History'
+title: 'Battle of Fort George: A paper read on March 14th, 1896'
+url: http://www.gutenberg.org/ebooks/33621
